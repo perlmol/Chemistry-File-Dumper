@@ -1,0 +1,8 @@
+Changes
+Dumper.pm
+Makefile.PL
+MANIFEST
+README
+t/Dumper.t
+t/pod.t
+t/mol.pl
